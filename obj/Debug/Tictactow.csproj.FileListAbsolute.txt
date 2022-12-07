@@ -1,0 +1,15 @@
+E:\PeopeCert Bootcamp\My files\teamproj\tictactow\Tictactow\obj\Debug\Tictactow.csproj.AssemblyReference.cache
+E:\PeopeCert Bootcamp\My files\teamproj\tictactow\Tictactow\obj\Debug\Tictactow.csproj.SuggestedBindingRedirects.cache
+E:\PeopeCert Bootcamp\My files\teamproj\tictactow\Tictactow\obj\Debug\Tictactow.csproj.CoreCompileInputs.cache
+E:\PeopeCert Bootcamp\My files\teamproj\tictactow\Tictactow\bin\Debug\Tictactow.exe.config
+E:\PeopeCert Bootcamp\My files\teamproj\tictactow\Tictactow\bin\Debug\Tictactow.exe
+E:\PeopeCert Bootcamp\My files\teamproj\tictactow\Tictactow\bin\Debug\Tictactow.pdb
+E:\PeopeCert Bootcamp\My files\teamproj\tictactow\Tictactow\bin\Debug\EntityFramework.dll
+E:\PeopeCert Bootcamp\My files\teamproj\tictactow\Tictactow\bin\Debug\EntityFramework.SqlServer.dll
+E:\PeopeCert Bootcamp\My files\teamproj\tictactow\Tictactow\bin\Debug\EntityFramework.xml
+E:\PeopeCert Bootcamp\My files\teamproj\tictactow\Tictactow\bin\Debug\EntityFramework.SqlServer.xml
+E:\PeopeCert Bootcamp\My files\teamproj\tictactow\Tictactow\obj\Debug\Tictactow.csproj.CopyComplete
+E:\PeopeCert Bootcamp\My files\teamproj\tictactow\Tictactow\obj\Debug\Tictactow.exe
+E:\PeopeCert Bootcamp\My files\teamproj\tictactow\Tictactow\obj\Debug\Tictactow.pdb
+E:\PeopeCert Bootcamp\My files\teamproj\tictactow\Tictactow\obj\Debug\Tictactow.Migrations.InitialMigration.resources
+E:\PeopeCert Bootcamp\My files\teamproj\tictactow\Tictactow\obj\Debug\Tictactow.csproj.GenerateResource.cache
